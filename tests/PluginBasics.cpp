@@ -20,10 +20,9 @@ TEST_CASE ("Plugin instance", "[instance]")
     SECTION ("name")
     {
         CHECK_THAT (testPlugin.getName().toStdString(),
-            Catch::Matchers::Equals ("Pamplejuce Demo"));
+            Catch::Matchers::Equals ("Healthy Diet"));
     }
 }
-
 
 #ifdef PAMPLEJUCE_IPP
     #include <ipp.h>
