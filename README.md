@@ -23,6 +23,7 @@ QUICK NOTE ABOUT INSTALLING ON MAC (SOMETIMES THIS MIGHT OCCUR)
 - Logic Pro X can't find the plugin
   
 ``` There might be a seperate AU/Components folder located in {user}/Library/Audio/Plug-Ins... ```
+
 ``` It might be hidden so try revealing hidden files and folders using Command + Shift + . (period) ```
 
 ## Overview
