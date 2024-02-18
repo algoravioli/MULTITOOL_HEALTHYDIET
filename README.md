@@ -11,6 +11,19 @@ Download for [Mac](https://github.com/algoravioli/MULTITOOL_HEALTHYDIET/releases
 
 Thank you for considering Healthy Diet for your audio production needs. We can't wait to hear the sonic delicacies you'll whip up with a pinch of creativity and a sprinkle of fun.
 
+QUICK NOTE ABOUT INSTALLING ON MAC (SOMETIMES THIS MIGHT OCCUR)
+- I am unable to drag and drop into my folder
+
+``` This is solved with a manual copy and paste ```
+
+- Permission problems with opening the installer
+
+``` Try right-click + open on the installer ```
+
+- Logic Pro X can't find the plugin
+  
+``` There might be a seperate AU/Components folder located in {user}/Library/Audio/Plug-Ins... ```
+
 ## Overview
 Healthy Diet is not just another audio plugin; it's a fresh approach to sound modulation. Each slider on the interface represents an essential component of a nutritious salad, allowing you to adjust and blend your audio ingredients to perfection. From the robust body of "Beans" to the piquant zest of "Spice," this plugin ensures your audio mix is bursting with flavor and vitality. 
 
