@@ -23,6 +23,7 @@ QUICK NOTE ABOUT INSTALLING ON MAC (SOMETIMES THIS MIGHT OCCUR)
 - Logic Pro X can't find the plugin
   
 ``` There might be a seperate AU/Components folder located in {user}/Library/Audio/Plug-Ins... ```
+``` It might be hidden so try revealing hidden files and folders using Command + Shift + . (period) ```
 
 ## Overview
 Healthy Diet is not just another audio plugin; it's a fresh approach to sound modulation. Each slider on the interface represents an essential component of a nutritious salad, allowing you to adjust and blend your audio ingredients to perfection. From the robust body of "Beans" to the piquant zest of "Spice," this plugin ensures your audio mix is bursting with flavor and vitality. 
