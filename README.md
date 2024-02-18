@@ -51,7 +51,7 @@ Compatible with all major digital audio workstations (DAWs), Healthy Diet is ser
 ## License 
 MIT License
 
-Copyright (c) 2024 Algoravioli - Christopehr Clarke
+Copyright (c) 2024 Algoravioli - Christopher Clarke
 Template by Sudara Williams
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
